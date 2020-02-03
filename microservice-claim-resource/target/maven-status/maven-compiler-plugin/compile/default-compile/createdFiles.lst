@@ -1,0 +1,3 @@
+com\example\microserviceclaimresource\model\ClaimRequest.class
+com\example\microserviceclaimresource\resource\ClaimResource.class
+com\example\microserviceclaimresource\MicroserviceClaimResourceApplication.class
