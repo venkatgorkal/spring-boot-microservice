@@ -1,0 +1,7 @@
+com\example\microserviceauthservice\security\SecurityCredentialsConfig.class
+com\example\microserviceauthservice\security\UserDetailsServiceImpl$AppUser.class
+com\example\microserviceauthservice\security\UserDetailsServiceImpl.class
+com\example\microserviceauthservice\security\JwtUsernameAndPasswordAuthenticationFilter$UserCredentials.class
+com\example\microserviceauthservice\MicroserviceAuthServiceApplication.class
+com\example\microserviceauthservice\security\JwtConfig.class
+com\example\microserviceauthservice\security\JwtUsernameAndPasswordAuthenticationFilter.class
