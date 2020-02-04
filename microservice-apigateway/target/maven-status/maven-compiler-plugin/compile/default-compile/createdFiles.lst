@@ -1,1 +1,4 @@
+com\example\microserviceapigateway\SecurityTokenConfig.class
+com\example\microserviceapigateway\JwtConfig.class
 com\example\microserviceapigateway\MicroserviceApigatewayApplication.class
+com\example\microserviceapigateway\JwtTokenAuthenticationFilter.class

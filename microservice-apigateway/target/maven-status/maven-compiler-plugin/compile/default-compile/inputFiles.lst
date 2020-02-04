@@ -1,1 +1,4 @@
-C:\projects\microservice-security\microservice-apigateway\src\main\java\com\example\microserviceapigateway\MicroserviceApigatewayApplication.java
+C:\projects\microservice-security\microservice-architecture\microservice-apigateway\src\main\java\com\example\microserviceapigateway\JwtConfig.java
+C:\projects\microservice-security\microservice-architecture\microservice-apigateway\src\main\java\com\example\microserviceapigateway\JwtTokenAuthenticationFilter.java
+C:\projects\microservice-security\microservice-architecture\microservice-apigateway\src\main\java\com\example\microserviceapigateway\MicroserviceApigatewayApplication.java
+C:\projects\microservice-security\microservice-architecture\microservice-apigateway\src\main\java\com\example\microserviceapigateway\SecurityTokenConfig.java
